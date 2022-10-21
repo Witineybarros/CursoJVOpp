@@ -1,0 +1,23 @@
+FAZER UM APP QUE CALCULE A MÉDIA:
+
+- LER "N" NÚMEROS "DECIMAIS": 
+
+- CALCULE A "MÉDIA" ENTRE ESSES NÚMEROS
+
+- PRINT ESSES NÚMEROS "LIDOS" A "SOMA" E A "MÉDIA"
+
+____________________________________________________________________
+
+EX:
+
+	QUANTOS NUMEROS VOCê VAI DIGITAR: " 3 " 
+	NUMBER 1: 5
+	NUMBER 2: 8
+	NUMBER 3: 2
+
+	____________________________________________
+	VALORES DIGITADOS: 5.0  8.0  2.0 
+
+	SOMA: 15
+	
+	MÉDIA: 5

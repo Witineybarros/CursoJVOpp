@@ -1,0 +1,20 @@
+FAZER UM APP QUE ENCONTRE O NÚMERO NEGATIVO:
+
+- LER "N" NUMEROS "INTEIROS", NEGATIVOS E POSITIVOS.
+
+
+- PRINT ESSES NÚMEROS E DIGA QUAL DELES É NEGATIVO.
+
+____________________________________________________________________
+
+EX:
+
+	QUANTOS NUMEROS VOCê VAI DIGITAR: " 3 " 
+	NUMBER 1: 5
+	NUMBER 2: -8
+	NUMBER 3: 1
+
+	____________________________________________
+	 -> NÚMERO NEGATIVO <-
+
+	 ~> -8

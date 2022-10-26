@@ -1,2 +1,2 @@
-## Curso de java OPP
-esse rep contem exercicios relacionado a OPP
+## Curso de java OOP
+esse rep contem exercicios relacionado a OOP

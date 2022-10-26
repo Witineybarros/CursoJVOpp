@@ -1,0 +1,97 @@
+CRIAR UM APP EM OOP QUE CALCULE A MEDIA DO TRIMESTRE DE UM ESTUDANTE 
+	- CONSIDERANDO 100 COMO TOTAL DO TRIMESTRE - 
+	
+	- 65 JÁ CONSIDERA MÉDIA PARA PASSAR -
+
+
+LEIA 3 NOTAS.
+
+EM SEGUIDA
+
+*SE A NOTA FOR MAIOR QUE 60
+
+IMPRIMA: 
+- NOTA FINAL
+- VOCÊ PASSOU, PARABENS!
+
+
+*SE A NOTA FOR "MENOR" QUE 60
+
+IMPRIMA:
+- NOTA FINAL
+- VOCÊ FALHOU, PARABENS!
+- INFORME QUANTOS PONTOS FALTOU
+
+
+*SE A NOTA FOR "IGUAL" À 60
+
+IMPRIMA:
+- NOTA FINAL
+- VOCÊ PASSOU,MAS PRECISA ESTUDAR UM POUCO MAIS!
+
+
+____________________________
+
+OBS: CRIE A CLASSE ESTUDANTE
+____________________________
+
+	EX: 1
+	    ---- OUT ----
+	VERIFIQUE SUA MÉDIA
+	-------------------
+
+	   ---- IN ----
+	DIGITE SUAS 3 NOTAS:
+
+	N1:30
+	N2:20
+	N3:30
+	--------------------
+
+	    ---- OUT ----
+	NOTA FINAL: 80 PONTOS
+	VOCê PASSOU, PARABENS =D
+	-------------------------
+
+
+
+	EX: 2
+	    ---- OUT ----
+	VERIFIQUE SUA MÉDIA
+	-------------------
+
+	   ---- IN ----
+	DIGITE SUAS 3 NOTAS:
+
+	N1:20
+	N2:20
+	N3:10
+	--------------------
+
+	    ---- OUT ----
+	NOTA FINAL: 50 PONTOS
+	"VOCÊ NÃO PASSOU =["
+	FALTOU:50 PONTOS
+	-------------------------
+
+
+
+EX: 3
+	    ---- OUT ----
+	VERIFIQUE SUA MÉDIA
+	-------------------
+
+	   ---- IN ----
+	DIGITE SUAS 3 NOTAS:
+
+	N1:20
+	N2:20
+	N3:20
+	--------------------
+
+	    ---- OUT ----
+	NOTA FINAL: 60 PONTOS
+	"VOCÊ PASSOU,MAS PRECISA ESTUDAR UM POUCO MAIS"
+	
+	-------------------------
+

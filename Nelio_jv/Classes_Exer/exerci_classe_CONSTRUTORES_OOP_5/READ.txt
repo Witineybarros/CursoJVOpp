@@ -1,0 +1,125 @@
+CRIAR UM APP EM OOP QUE 
+UTILIZE CONSTRUTORES E MODIFICADORES DE ACESSO
+ULTILIZE GET E SET
+
+- ler um nome
+- ler um numero de uma conta
+
+em seguida 
+-pergunte se o correntista quer iniciar a conta com um deposito
+
+
+se sim:
+
+mostre dados da conta
+numero da conta: xx
+correntista:xx
+saldo: 1000
+
+se nao:
+faça o mesmo acima
+mas o saldo deve iniciar 0,00
+
+em seguida
+entre com um deposito 
+
+mostre dados da conta
+numero da conta: xx
+correntista:xx
+saldo: + deposito
+
+em seguida
+entre faça um saque 
+
+mostre dados da conta
+numero da conta: xx
+correntista:xx
+saldo: - deposito ( cada saque tem uma taxa de 5,00)
+
+
+
+
+- OBS: CRIE A CLASSE "conta"	
+	
+
+	EX: 1
+	    
+	   ---- IN ----
+	DIGITE UM NUMERO DE UMA CONTA:123
+	QUAL SEU NOME: MARCOS X
+
+	GOSTARIA DE FAZER UM DEPOSITO (S/N): S
+	QUAL VALOR DO DEPOSITO INICIAL:200,00
+
+	_____________________
+	
+	    ---- OUT ----
+	- DADOS DA CONTA -
+	Nmero da conta:123
+	Correntista:xx
+	saldo: 200,00
+	-------------------------
+
+	    ---- IN ----
+	DIGITE UM VALOR DE DEPOSITO:500,00
+	_____________________
+	
+	---- OUT ----
+	- DADOS DA CONTA -
+	Nmero da conta:123
+	Correntista:xx
+	saldo: 700,00
+	-------------------------
+
+	  ---- IN ----
+	DIGITE O VALOR D0 SAQUE:250,00
+	_____________________
+	
+	---- OUT ----
+	- DADOS DA CONTA -
+	Nmero da conta:123
+	Correntista:xx
+	saldo: 445,00
+	-------------------------
+
+
+
+
+	EX: 2
+	    
+	   ---- IN ----
+	DIGITE UM NUMERO DE UMA CONTA:123
+	QUAL SEU NOME: MARCOS X
+
+	GOSTARIA DE FAZER UM DEPOSITO (S/N): N
+	
+	_____________________
+	
+	    ---- OUT ----
+	- DADOS DA CONTA -
+	Nmero da conta:123
+	Correntista:xx
+	saldo: 0,00
+	-------------------------
+
+	    ---- IN ----
+	DIGITE UM VALOR DE DEPOSITO:500,00
+	_____________________
+	
+	---- OUT ----
+	- DADOS DA CONTA -
+	Nmero da conta:123
+	Correntista:xx
+	saldo: 500,00
+	-------------------------
+
+	  ---- IN ----
+	DIGITE O VALOR D0 SAQUE:500,00
+	_____________________
+	
+	---- OUT ----
+	- DADOS DA CONTA -
+	Nmero da conta:123
+	Correntista:xx
+	saldo: -5,00
+	-------------------------
